@@ -1,5 +1,6 @@
 {
   "expo": {
+    "scheme": "myapp",
     "name": "react-songlist-test",
     "slug": "react-songlist-test",
     "version": "1.0.0",
