@@ -1,7 +1,7 @@
 {
   "expo": {
     "scheme": "myapp",
-    "name": "react-songlist-test",
+    "name": "React SongList Test",
     "slug": "react-songlist-test",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -28,6 +28,7 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": ""
   }
 }
